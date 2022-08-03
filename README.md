@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About Me
-**Graham E. Chukwumaobi (A.K.A) cheloghm** is a Software engineer, who is very ✨ enthusiastic ✨ The open-source comminities and open-source projects.
+**Graham E. Chukwumaobi (A.K.A: cheloghm)** is a Software engineer, who is very ✨ enthusiastic ✨ The open-source comminities and open-source projects.
 Actively looking for opportunities to comtribute to open-sorce projects as well.
 
 Here are some ideas to get you started:
