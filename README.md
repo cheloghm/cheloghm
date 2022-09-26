@@ -7,7 +7,7 @@ Actively looking for opportunities to comtribute to open-sorce projects as well.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a web developer in FruitCast.
-- 🌱 I’m currently learning about Kubernetes and preparing to seat for the CKA certification.
+- 🌱 I’m currently on the lookout for DevOps & Cloud Engineering roles.
 - 👯 I’m looking to collaborate on projects in the open-source communities and private projects as well.
 - 💼 I'm CKA certified: https://www.credly.com/badges/fa85a2c7-2145-4b52-90e9-35468d122984/public_url
 - 🤔 I’m looking for help with AWS, Azure, GCP, CKD, CKS, certifications and all things cloud.
