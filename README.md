@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a web developer in FruitCast.
 - 🌱 I’m currently learning about Kubernetes and preparing to seat for the CKA certification.
 - 👯 I’m looking to collaborate on projects in the open-source communities and private projects as well.
-- 🤔 I’m looking for help with ![CKA certified](https://www.credly.com/badges/fa85a2c7-2145-4b52-90e9-35468d122984/public_url) , CKD, CKS, and all things cloud.
+- 💼 I'm CKA certified: https://www.credly.com/badges/fa85a2c7-2145-4b52-90e9-35468d122984/public_url
+- 🤔 I’m looking for help with AWS, Azure, GCP, CKD, CKS, certifications and all things cloud.
 - 💬 Ask me about my journey into Tech, cloud, and open-source technologies.
 - 📫 How to reach me:
           Email: cheloghm@gmail.com || graham.chukwumaobi@gmail.com
